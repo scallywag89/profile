@@ -15,12 +15,12 @@ h1, h2, h3 {
   font-size: 24px;
 }
 
-a {
+.icon, a {
   color: #A7754D;
   text-decoration: none;
 }
 
-a:hover {
+.icon:hover {
   color: #EAB464;
 }
 
@@ -29,6 +29,10 @@ a:hover {
   color: white;
   padding: 8px 16;
   border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background-color: #EAB464;
 }
 
 p {
@@ -46,6 +50,7 @@ p {
 
 .img-circle {
   border-radius: 50%;
+  border: 1px solid #8D98A7;
 }
 
 .card-almond {
