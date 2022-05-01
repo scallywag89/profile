@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
 
 body {
-  background-color: #F1FEC6;
+  background-color: #8D98A7;
   font-family: 'Open Sans';
   font-weight: 300;
   color: #2E2E3A;
@@ -16,16 +16,16 @@ h1, h2, h3 {
 }
 
 a {
-  color: #4E8098;
+  color: #A7754D;
   text-decoration: none;
 }
 
 a:hover {
-  color: #F76847;
+  color: #EAB464;
 }
 
 .btn-blue {
-  background-color: #74A4BC;
+  background-color: #A7754D;
   color: white;
   padding: 8px 16;
   border-radius: 4px;
@@ -46,11 +46,10 @@ p {
 
 .img-circle {
   border-radius: 50%;
-  border: 1px solid #F76847;
 }
 
-.card-white {
-  background-color: #B6D6CC;
+.card-almond {
+  background-color: #DCCCBB;
   padding: 40px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
   border-radius: 4px;
